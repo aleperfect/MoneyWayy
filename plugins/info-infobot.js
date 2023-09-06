@@ -56,7 +56,7 @@ let old = performance.now()
 
 let info = `╭━━━━[ ${gt} ]━━━━━⬣
 ┃➥CREATOR*
-┃ღ ALEIZN - MD 
+┃𝐌𝐎𝐍𝐄𝐘 𝐖𝐀𝐘𝐘
 ┊+51 906 830 557
 ┊
 ┃┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈

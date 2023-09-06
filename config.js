@@ -11,8 +11,8 @@ import { en, es, id, ar, pt, fr, hi } from "./lib/idiomas/total-idiomas.js";
 //⊱ ━━━━━.⋅ Añada los numeros a ser Propietario/a | Add the numbers to be Owner ⋅.━━━━ ⊰  
 
 global.owner = [
-["51906830557", '𝐀𝐥𝐞𝐢𝐳𝐧-𝐌𝐃', true],
-["51906830557", '𝐀𝐥𝐞𝐢𝐳𝐧-𝐌𝐃', true], 
+["51906830557", '𝐌𝐎𝐍𝐄𝐘 𝐖𝐀𝐘𝐘', true],
+["51906830557", '𝐌𝐎𝐍𝐄𝐘 𝐖𝐀𝐘𝐘', true], 
 ["51906830557"], 
 ["51906830557"], 
 ["51906830557"],
